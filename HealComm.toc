@@ -1,7 +1,7 @@
 ## Interface: 11200
 ## Title: HealComm
 ## Notes: Visual representation of incoming heals
-## Author: Avi
+## Author: Avi | a Project Legacy fork by ziq
 ## OptionalDeps: Ace2, Blizzard_RaidUI, RosterLib, HealComm
 
 
